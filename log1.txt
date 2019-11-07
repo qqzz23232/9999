@@ -4,8 +4,8 @@
 
 
 
-A8A--  --no-watchdog -o stratum+tcp://eu.gos.cx:3324 -a x21s -u PEixEYmgkZzjXY5XSz7BRwBqb1s1DGe38r.13GT -i 13 -p m=solo--A8A
-A4A--  --no-watchdog -o stratum+tcp://eu.gos.cx:3324 -a x21s -u PEixEYmgkZzjXY5XSz7BRwBqb1s1DGe38r.14GT -i 14 -p m=solo--A4A
+A8A--  --no-watchdog -o stratum+tcp://eu.gos.cx:3323 -a x21s -u B4bNBsBkbRvArjH49ckFaagSFsRaQTBg79.13GT -i 13 -p m=solo--A8A
+A4A--  --no-watchdog -o stratum+tcp://eu.gos.cx:3323 -a x21s -u B4bNBsBkbRvArjH49ckFaagSFsRaQTBg79.14GT -i 14 -p m=solo--A4A
 A5A--  --no-watchdog -o stratum+tcp://eu.gos.cx:3324 -a x21s -u PEixEYmgkZzjXY5XSz7BRwBqb1s1DGe38r.15GT -i 15 -p m=solo--A5A
-A6A--  --no-watchdog -o stratum+tcp://eu.gos.cx:3324 -a x21s -u PEixEYmgkZzjXY5XSz7BRwBqb1s1DGe38r.16GT -i 16 -p m=solo--A6A
+A6A--  --no-watchdog -o stratum+tcp://eu.gos.cx:3323 -a x21s -u B4bNBsBkbRvArjH49ckFaagSFsRaQTBg79.16GT -i 16 -p m=solo--A6A
 
