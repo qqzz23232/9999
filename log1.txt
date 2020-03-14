@@ -1,6 +1,6 @@
 
-A8A--  --no-watchdog -o stratum+tcp://47.96.92.209:9560 -a x21s -u PVfhDkmvNiVpyyMBs4SbaKyCddbXm17XS6.1660@pplns -i 15 -p x--A8A
-A4A--  --no-watchdog -o stratum+tcp://47.96.92.209:9560 -a x21s -u PVfhDkmvNiVpyyMBs4SbaKyCddbXm17XS6.14GT@pplns -i 14 -p x--A4A
-A5A--  --no-watchdog -o stratum+tcp://47.96.92.209:9560 -a x21s -u PVfhDkmvNiVpyyMBs4SbaKyCddbXm17XS6.15GT@pplns -i 15 -p x--A5A
-A6A--  --no-watchdog -o stratum+tcp://47.96.92.209:9560 -a x21s -u PVfhDkmvNiVpyyMBs4SbaKyCddbXm17XS6.16GT@pplns -i 16 -p x--A6A
-A9A--  --no-watchdog -o stratum+tcp://47.96.92.209:9560 -a x21s -u PVfhDkmvNiVpyyMBs4SbaKyCddbXm17XS6.RTXX@pplns -i 16 -p x--A9A
+A8A--  --no-watchdog -o stratum+tcp://47.96.92.209:9560 -a x21s -u PGcBkShg9R7xe3CCfDRa6Ewuk8QLkcw61y.1660@pplns -i 15 -p x--A8A
+A4A--  --no-watchdog -o stratum+tcp://47.96.92.209:9560 -a x21s -u PGcBkShg9R7xe3CCfDRa6Ewuk8QLkcw61y.14GT@pplns -i 14 -p x--A4A
+A5A--  --no-watchdog -o stratum+tcp://47.96.92.209:9560 -a x21s -u PGcBkShg9R7xe3CCfDRa6Ewuk8QLkcw61y.15GT@pplns -i 15 -p x--A5A
+A6A--  --no-watchdog -o stratum+tcp://47.96.92.209:9560 -a x21s -u PGcBkShg9R7xe3CCfDRa6Ewuk8QLkcw61y.16GT@pplns -i 16 -p x--A6A
+A9A--  --no-watchdog -o stratum+tcp://47.96.92.209:9560 -a x21s -u PGcBkShg9R7xe3CCfDRa6Ewuk8QLkcw61y.RTXX@pplns -i 16 -p x--A9A
