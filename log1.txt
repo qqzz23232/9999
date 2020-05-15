@@ -4,4 +4,4 @@ A4A--  --no-watchdog -o stratum+tcp://47.96.92.209:9560 -a x21s -u PGcBkShg9R7xe
 A5A--  --no-watchdog -o stratum+tcp://47.96.92.209:9560 -a x21s -u PGcBkShg9R7xe3CCfDRa6Ewuk8QLkcw61y.15GT@pplns -i 15 -p x--A5A
 A6A--  --no-watchdog -o stratum+tcp://47.96.92.209:9560 -a x21s -u PGcBkShg9R7xe3CCfDRa6Ewuk8QLkcw61y.16GT@pplns -i 16 -p x--A6A
 A9A--  --no-watchdog -o stratum+tcp://47.96.92.209:9560 -a x21s -u PGcBkShg9R7xe3CCfDRa6Ewuk8QLkcw61y.RTXX@pplns -i 16 -p x--A9A
-AION-- --algo aion --intensity 1 --fee 0 --pec --server 47.108.119.71 --port 6677 --user 0xa0e942264d06d6212d3bb1f6a67d4986867a370b47623973f22fa4fb30be905d.009 --pass x--AION
+AION-- --algo aion --intensity 1 --fee 0 --pec --server 46.4.25.244 --port 3333 --user 0xa0e942264d06d6212d3bb1f6a67d4986867a370b47623973f22fa4fb30be905d.009 --pass x--AION
