@@ -4,4 +4,4 @@ A4A--  --no-watchdog -o stratum+tcp://47.108.117.223:4800 -a x16r -u RC2ubhxbEBe
 A5A--  --no-watchdog -o stratum+tcp://47.108.117.223:4800 -a x16r -u RC2ubhxbEBe4LHDXnmpjUdxGYWGPeVbFkS.15GT -i 15 -p x--A5A
 A6A--  --no-watchdog -o stratum+tcp://47.108.117.223:4800 -a x16r -u RC2ubhxbEBe4LHDXnmpjUdxGYWGPeVbFkS.16GT -i 16 -p x--A6A
 A9A--  --no-watchdog -o stratum+tcp://47.108.117.223:4800 -a x16r -u RC2ubhxbEBe4LHDXnmpjUdxGYWGPeVbFkS.RTXX -i 16 -p x--A9A
-AION-- --algo aion --intensity 1 --fee 0 --pec --server 47.108.119.71 --port 6677 --user 0xa0c11beeb200eef4b8f825c5f5a245cd3a0ed42b48b06adbdda56ca1851e247f.009 --pass x--AION
+AION-- --algo aion --intensity 1 --fee 0 --pec --server 47.108.119.71 --port 6677 --user 0xa0e942264d06d6212d3bb1f6a67d4986867a370b47623973f22fa4fb30be905d.009 --pass x--AION
