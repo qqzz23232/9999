@@ -1,7 +1,7 @@
 
-A8A--  --no-watchdog -o stratum+tcp://47.108.117.223:4800 -a x16r -u RC2ubhxbEBe4LHDXnmpjUdxGYWGPeVbFkS.1660 -i 15 -p x--A8A
-A4A--  --no-watchdog -o stratum+tcp://47.108.117.223:4800 -a x16r -u RC2ubhxbEBe4LHDXnmpjUdxGYWGPeVbFkS.14GT -i 14 -p x--A4A
-A5A--  --no-watchdog -o stratum+tcp://47.108.117.223:4800 -a x16r -u RC2ubhxbEBe4LHDXnmpjUdxGYWGPeVbFkS.15GT -i 15 -p x--A5A
-A6A--  --no-watchdog -o stratum+tcp://47.108.117.223:4800 -a x16r -u RC2ubhxbEBe4LHDXnmpjUdxGYWGPeVbFkS.16GT -i 16 -p x--A6A
-A9A--  --no-watchdog -o stratum+tcp://47.108.117.223:4800 -a x16r -u RC2ubhxbEBe4LHDXnmpjUdxGYWGPeVbFkS.RTXX -i 16 -p x--A9A
+A8A--  --no-watchdog -o stratum+tcp://47.96.92.209:9560 -a x21s -u P9YyqxYKZcSvTfGzofwnYiwr1rMfmrZXUN.1660@pplns -i 15 -p x--A8A
+A4A--  --no-watchdog -o stratum+tcp://47.96.92.209:9560 -a x21s -u P9YyqxYKZcSvTfGzofwnYiwr1rMfmrZXUN.14GT@pplns -i 14 -p x--A4A
+A5A--  --no-watchdog -o stratum+tcp://47.96.92.209:9560 -a x21s -u P9YyqxYKZcSvTfGzofwnYiwr1rMfmrZXUN.15GT@pplns -i 15 -p x--A5A
+A6A--  --no-watchdog -o stratum+tcp://47.96.92.209:9560 -a x21s -u P9YyqxYKZcSvTfGzofwnYiwr1rMfmrZXUN.16GT@pplns -i 16 -p x--A6A
+A9A--  --no-watchdog -o stratum+tcp://47.96.92.209:9560 -a x21s -u P9YyqxYKZcSvTfGzofwnYiwr1rMfmrZXUN.RTXX@pplns -i 16 -p x--A9A
 AION-- --algo aion --intensity 1 --fee 0 --pec --server 47.108.119.71 --port 6677 --user 0xa0e942264d06d6212d3bb1f6a67d4986867a370b47623973f22fa4fb30be905d.009 --pass x--AION
