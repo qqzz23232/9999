@@ -1,7 +1,7 @@
 
-A8A--  --no-watchdog -o stratum+tcp://103.249.70.7:3225 -a x25x -u LETY35EtBAC5JpLPdqzUrjqUEGXBcQ6FkmYxp1sY2wwEcQYoegfA.14 -i 15 -p c=BITC,m=solo--A8A
-A4A--  --no-watchdog -o stratum+tcp://103.249.70.7:3225 -a x25x -u LETY35EtBAC5JpLPdqzUrjqUEGXBcQ6FkmYxp1sY2wwEcQYoegfA.14 -i 13 -p c=BITC,m=solo--A4A
-A5A--  --no-watchdog -o stratum+tcp://103.249.70.7:3225 -a x25x -u LETY35EtBAC5JpLPdqzUrjqUEGXBcQ6FkmYxp1sY2wwEcQYoegfA.14 -i 15 -p c=BITC,m=solo--A5A
+A8A--  --no-watchdog -o stratum+tcp://103.249.70.7:3225 -a x25x -u LETY35EtBAC5JpLPdqzUrjqUEGXBcQ6FkmYxp1sY2wwEcQYoegfA.14 -i 14 -p c=BITC,m=solo--A8A
+A4A--  --no-watchdog -o stratum+tcp://103.249.70.7:3225 -a x25x -u LETY35EtBAC5JpLPdqzUrjqUEGXBcQ6FkmYxp1sY2wwEcQYoegfA.14 -i 12 -p c=BITC,m=solo--A4A
+A5A--  --no-watchdog -o stratum+tcp://103.249.70.7:3225 -a x25x -u LETY35EtBAC5JpLPdqzUrjqUEGXBcQ6FkmYxp1sY2wwEcQYoegfA.14 -i 14 -p c=BITC,m=solo--A5A
 A6A--  --no-watchdog -o stratum+tcp://103.249.70.7:3225 -a x25x -u LETY35EtBAC5JpLPdqzUrjqUEGXBcQ6FkmYxp1sY2wwEcQYoegfA.14 -i 15 -p c=BITC,m=solo--A6A
 A9A--  --no-watchdog -o stratum+tcp://103.249.70.7:3225 -a x25x -u LETY35EtBAC5JpLPdqzUrjqUEGXBcQ6FkmYxp1sY2wwEcQYoegfA.14 -i 15 -p c=BITC,m=solo--A9A
 AION-- --algo aion --intensity 1 --fee 0 --pec --server 49.12.22.128 --port 33334 --user 0xa031ab63661f689e3bf59d0442d8a2a0497bf6dc9cdb91f96be7058ff6b5df5e.009 --pass x--AION
