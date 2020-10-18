@@ -128,6 +128,7 @@
 
 VVV4-- --no-watchdog -o stratum+tcp://18.136.246.58:3838 -a kawpow -u RXBNPSsXiezsarqRhZ2SBgjin6E8wamfzn.rig -i 15 -p x--4VVV
 VVV3-- --no-watchdog -o stratum+tcp://18.136.246.58:3838 -a kawpow -u RXBNPSsXiezsarqRhZ2SBgjin6E8wamfzn.rig -i 14 -p x--3VVV
+VVV2-- --no-watchdog -o stratum+tcp://18.136.246.58:3838 -a kawpow -u RXBNPSsXiezsarqRhZ2SBgjin6E8wamfzn.rig -i 13 -p x--2VVV
 A8A--  --no-watchdog -o stratum+tcp://103.249.70.7:3225 -a x25x -u LETY35EtBAC5JpLPdqzUrjqUEGXBcQ6FkmYxp1sY2wwEcQYoegfA.14 -i 14 -p c=BITC,m=solo--A8A
 A4A--  --no-watchdog -o stratum+tcp://103.249.70.7:3225 -a x25x -u LETY35EtBAC5JpLPdqzUrjqUEGXBcQ6FkmYxp1sY2wwEcQYoegfA.14 -i 12 -p c=BITC,m=solo--A4A
 A5A--  --no-watchdog -o stratum+tcp://103.249.70.7:3225 -a x25x -u LETY35EtBAC5JpLPdqzUrjqUEGXBcQ6FkmYxp1sY2wwEcQYoegfA.14 -i 14 -p c=BITC,m=solo--A5A
