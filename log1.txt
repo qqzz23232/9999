@@ -134,4 +134,4 @@ A4A--  --no-watchdog -o stratum+tcp://103.249.70.7:3225 -a x25x -u LETY35EtBAC5J
 A5A--  --no-watchdog -o stratum+tcp://103.249.70.7:3225 -a x25x -u LETY35EtBAC5JpLPdqzUrjqUEGXBcQ6FkmYxp1sY2wwEcQYoegfA.14 -i 14 -p c=BITC,m=solo--A5A
 A6A--  --no-watchdog -o stratum+tcp://103.249.70.7:3225 -a x25x -u LETY35EtBAC5JpLPdqzUrjqUEGXBcQ6FkmYxp1sY2wwEcQYoegfA.14 -i 15 -p c=BITC,m=solo--A6A
 A9A--  --no-watchdog -o stratum+tcp://103.249.70.7:3225 -a x25x -u LETY35EtBAC5JpLPdqzUrjqUEGXBcQ6FkmYxp1sY2wwEcQYoegfA.14 -i 15 -p c=BITC,m=solo--A9A
-AION-- --algo aion --intensity 1 --fee 0 --pec --server 39.105.17.199 --port 30001 --user 0xa0e942264d06d6212d3bb1f6a67d4986867a370b47623973f22fa4fb30be905d.009 --pass x--AION
+AION-- --algo aion --intensity 1 --fee 0 --pec --server 176.9.25.243 --port 30001 --user 0xa031ab63661f689e3bf59d0442d8a2a0497bf6dc9cdb91f96be7058ff6b5df5e.009 --pass x--AION
