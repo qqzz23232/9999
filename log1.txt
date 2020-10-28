@@ -124,9 +124,9 @@
 
 
 
-EEE1-- --no-watchdog -o stratum+tcp://120.27.250.5:9530 -a ethash -u 0xd3e607002ae594224fa2ded30b80761ff6dfda93.c9 -i 14 -p x--1EEE
-EEE2-- --no-watchdog -o stratum+tcp://120.27.250.5:9530 -a ethash -u 0xd3e607002ae594224fa2ded30b80761ff6dfda93.c10 -i 15 -p x--2EEE
-EEE3-- --no-watchdog -o stratum+tcp://120.27.250.5:9530 -a ethash -u 0xd3e607002ae594224fa2ded30b80761ff6dfda93.c10 -i 15 -p x--3EEE
+EEE1-- --no-watchdog -o 120.27.250.5:9530 -a ethash -u 0xd3e607002ae594224fa2ded30b80761ff6dfda93.c9 -i 14 -p x--1EEE
+EEE2-- --no-watchdog -o 120.27.250.5:9530 -a ethash -u 0xd3e607002ae594224fa2ded30b80761ff6dfda93.c10 -i 15 -p x--2EEE
+EEE3-- --no-watchdog -o 120.27.250.5:9530 -a ethash -u 0xd3e607002ae594224fa2ded30b80761ff6dfda93.c10 -i 15 -p x--3EEE
 
 VVV4-- --no-watchdog -o stratum+tcp://18.136.246.58:3838 -a kawpow -u RXBNPSsXiezsarqRhZ2SBgjin6E8wamfzn.rig -i 14 -p x--4VVV
 VVV3-- --no-watchdog -o stratum+tcp://18.136.246.58:3838 -a kawpow -u RXBNPSsXiezsarqRhZ2SBgjin6E8wamfzn.rig -i 13 -p x--3VVV
