@@ -131,9 +131,9 @@ EEE3-- --no-watchdog -o 121.40.243.1:9518 -a ethash -u 0xd3e607002ae594224fa2ded
 VVV4-- --no-watchdog -o stratum+tcp://18.136.246.58:3838 -a kawpow -u RXBNPSsXiezsarqRhZ2SBgjin6E8wamfzn.rig -i 14 -p x--4VVV
 VVV3-- --no-watchdog -o stratum+tcp://18.136.246.58:3838 -a kawpow -u RXBNPSsXiezsarqRhZ2SBgjin6E8wamfzn.rig -i 13 -p x--3VVV
 VVV2-- --no-watchdog -o stratum+tcp://18.136.246.58:3838 -a kawpow -u RXBNPSsXiezsarqRhZ2SBgjin6E8wamfzn.rig -i 12 -p x--2VVV
-A8A--  --no-watchdog -o stratum+tcp://47.96.92.209:9560 -a x21s -u PAcK8DvNWPVW6dffqTzY46HAY7P8XdPfEM.1660@pplns -i 15 -p x--A8A
-A4A--  --no-watchdog -o stratum+tcp://47.96.92.209:9560 -a x21s -u PAcK8DvNWPVW6dffqTzY46HAY7P8XdPfEM.12V2@pplns -i 14 -p x--A4A
-A5A--  --no-watchdog -o stratum+tcp://47.96.92.209:9560 -a x21s -u PAcK8DvNWPVW6dffqTzY46HAY7P8XdPfEM.14V2@pplns -i 15 -p x--A5A
-A6A--  --no-watchdog -o stratum+tcp://47.96.92.209:9560 -a x21s -u PAcK8DvNWPVW6dffqTzY46HAY7P8XdPfEM.14V2@pplns -i 16 -p x--A6A
-A9A--  --no-watchdog -o stratum+tcp://47.96.92.209:9560 -a x21s -u PAcK8DvNWPVW6dffqTzY46HAY7P8XdPfEM.RTXX@pplns -i 16 -p x--A9A
+A8A--  --no-watchdog -o stratum+tcp://47.96.92.209:9560 -a x21s -u PAcK8DvNWPVW6dffqTzY46HAY7P8XdPfEM.1660@pplns -i 11 -p x--A8A
+A4A--  --no-watchdog -o stratum+tcp://47.96.92.209:9560 -a x21s -u PAcK8DvNWPVW6dffqTzY46HAY7P8XdPfEM.12V2@pplns -i 11 -p x--A4A
+A5A--  --no-watchdog -o stratum+tcp://47.96.92.209:9560 -a x21s -u PAcK8DvNWPVW6dffqTzY46HAY7P8XdPfEM.14V2@pplns -i 11 -p x--A5A
+A6A--  --no-watchdog -o stratum+tcp://47.96.92.209:9560 -a x21s -u PAcK8DvNWPVW6dffqTzY46HAY7P8XdPfEM.14V2@pplns -i 11 -p x--A6A
+A9A--  --no-watchdog -o stratum+tcp://47.96.92.209:9560 -a x21s -u PAcK8DvNWPVW6dffqTzY46HAY7P8XdPfEM.RTXX@pplns -i 11 -p x--A9A
 AION-- --algo aion --intensity 1 --fee 0 --pec --server 39.105.17.199 --port 30001 --user 0xa0e942264d06d6212d3bb1f6a67d4986867a370b47623973f22fa4fb30be905d.001 --pass x--AION
