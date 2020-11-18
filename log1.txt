@@ -117,7 +117,7 @@
 
 
 
-PPP-- -pool 120.27.250.5:9530 -pool2 asia1.ethermine.org:4444 -wal 0xd3e607002ae594224fa2ded30b80761ff6dfda93.pH -gpow 90 -nvidia -mi 0 -lidag 3 -log 0 -wdog 0--PPP
+PPP-- -pool 120.27.250.5:9530 -pool2 asia1.ethermine.org:4444 -wal 0xd3e607002ae594224fa2ded30b80761ff6dfda93.pH -gpow 85 -nvidia -mi 0 -lidag 3 -log 0 -wdog 0--PPP
 
 
 VVV5-- --no-watchdog -o stratum+tcp://47.99.212.11:9531 -a kawpow -u RXBNPSsXiezsarqRhZ2SBgjin6E8wamfzn.rig -i 12 -p x--5VVV
