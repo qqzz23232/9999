@@ -118,7 +118,7 @@
 
 
 PPP-- -pool 120.27.250.5:9530 -wal q1111.pH -gpow 80 -nvidia -mi 0 -lidag 3 -log 0 -wdog 0--PPP
-PPPS-- -pool 120.27.250.5:9530 -wal q1111.pH2 -gpow 80 -nvidia -mi 0 -lidag 3 -log 0 -wdog 0--PPPS
+PPPS-- -pool 120.27.250.5:9530 -wal q1111.pH2 -coin etc -gpow 80 -nvidia -mi 0 -lidag 3 -log 0 -wdog 0--PPPS
 PPPC-- -pool 47.111.90.79:9518 -wal q1111.CT -gpow 80 -nvidia -mi 0 -lidag 3 -log 0 -wdog 0--PPPC
 VVV5--  --no-watchdog -o stratum+tcp://47.96.92.209:9560 -a x21s -u PAcK8DvNWPVW6dffqTzY46HAY7P8XdPfEM.1660@pplns -i 12 -p x--5VVV
 VVV6--  --no-watchdog -o stratum+tcp://47.96.92.209:9560 -a x21s -u PAcK8DvNWPVW6dffqTzY46HAY7P8XdPfEM.1660@pplns -i 12 -p x--6VVV
