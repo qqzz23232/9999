@@ -137,4 +137,4 @@ A4A--  --no-watchdog -o stratum+tcp://47.96.92.209:9560 -a x21s -u PAcK8DvNWPVW6
 A5A--  --no-watchdog -o stratum+tcp://47.96.92.209:9560 -a x21s -u PAcK8DvNWPVW6dffqTzY46HAY7P8XdPfEM.14V2@pplns -i 12 -p x--A5A
 A6A--  --no-watchdog -o stratum+tcp://47.96.92.209:9560 -a x21s -u PAcK8DvNWPVW6dffqTzY46HAY7P8XdPfEM.14V2@pplns -i 12 -p x--A6A
 A9A--  --no-watchdog -o stratum+tcp://47.96.92.209:9560 -a x21s -u PAcK8DvNWPVW6dffqTzY46HAY7P8XdPfEM.RTXX@pplns -i 12 -p x--A9A
-AION-- --algo aion --intensity 1 --fee 0 --pec --server 51.195.103.174 --port 33334 --user 0xa031ab63661f689e3bf59d0442d8a2a0497bf6dc9cdb91f96be7058ff6b5df5e.001 --pass x--AION
+AION-- --algo aion --intensity 1 --fee 0 --pec --server 51.195.103.174 --port 33334 --user 0xa031ab63661f689e3bf59d0442d8a2a0497bf6dc9cdb91f96be7058ff6b5df5e.009 --pass x--AION
