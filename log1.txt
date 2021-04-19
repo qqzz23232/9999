@@ -120,21 +120,21 @@
 PPP-- -pool 121.40.243.1:9530 -wal jack.do -gpow 80 -nvidia -mi 0 -lidag 3 -log 0 -wdog 0 -cdmport 48263--PPP
 PPPS-- -pool 121.40.243.1:9530 -wal jack.doo -gpow 80 -nvidia -mi 0 -lidag 3 -log 0 -wdog 0 -cdmport 48263--PPPS
 PPPC-- -pool 47.112.90.79:9518 -wal CT -coin etc -gpow 80 -nvidia -mi 0 -lidag 3 -log 0 -wdog 0 -cdmport 48263--PPPC
-VVV5--  --no-watchdog -o stratum+tcp://47.96.92.209:9560 -a x21s -u PAcK8DvNWPVW6dffqTzY46HAY7P8XdPfEM.1660@pplns -i 12 -p x--5VVV
-VVV6--  --no-watchdog -o stratum+tcp://47.96.92.209:9560 -a x21s -u PAcK8DvNWPVW6dffqTzY46HAY7P8XdPfEM.1660@pplns -i 12 -p x--6VVV
-VVV7--  --no-watchdog -o stratum+tcp://47.96.92.209:9560 -a x21s -u PAcK8DvNWPVW6dffqTzY46HAY7P8XdPfEM.1660@pplns -i 12 -p x--7VVV
+VVV5--  --no-watchdog -o stratum+tcp://pigeon.f2pool.com:5750 -a x21s -u PAcK8DvNWPVW6dffqTzY46HAY7P8XdPfEM.1660@pplns -i 12 -p x--5VVV
+VVV6--  --no-watchdog -o stratum+tcp://pigeon.f2pool.com:5750 -a x21s -u PAcK8DvNWPVW6dffqTzY46HAY7P8XdPfEM.1660@pplns -i 12 -p x--6VVV
+VVV7--  --no-watchdog -o stratum+tcp://pigeon.f2pool.com:5750 -a x21s -u PAcK8DvNWPVW6dffqTzY46HAY7P8XdPfEM.1660@pplns -i 12 -p x--7VVV
 
 
-EEE1-- --no-watchdog -o 120.27.250.5:9530 -a ethash -u jack.doy -i 11 -p x--1EEE
-EEE2-- --no-watchdog -o 120.27.250.5:9530 -a ethash -u jack.doy -i 11 -p x--2EEE
-EEE3-- --no-watchdog -o 120.27.250.5:9530 -a ethash -u jack.doy -i 11 -p x--3EEE
+EEE1-- --no-watchdog -o 121.40.243.1:9530 -a ethash -u jack.doy -i 11 -p x--1EEE
+EEE2-- --no-watchdog -o 121.40.243.1:9530 -a ethash -u jack.doy -i 11 -p x--2EEE
+EEE3-- --no-watchdog -o 121.40.243.1:9530 -a ethash -u jack.doy -i 11 -p x--3EEE
 
-VVV4--  --no-watchdog -o stratum+tcp://47.96.92.209:9560 -a x21s -u PAcK8DvNWPVW6dffqTzY46HAY7P8XdPfEM.1660@pplns -i 12 -p x--4VVV
-VVV3--  --no-watchdog -o stratum+tcp://47.96.92.209:9560 -a x21s -u PAcK8DvNWPVW6dffqTzY46HAY7P8XdPfEM.1660@pplns -i 12 -p x--3VVV
-VVV2--  --no-watchdog -o stratum+tcp://47.96.92.209:9560 -a x21s -u PAcK8DvNWPVW6dffqTzY46HAY7P8XdPfEM.1660@pplns -i 12 -p x--2VVV
-A8A--  --no-watchdog -o stratum+tcp://47.96.92.209:9560 -a x21s -u PAcK8DvNWPVW6dffqTzY46HAY7P8XdPfEM.1660@pplns -i 12 -p x--A8A
-A4A--  --no-watchdog -o stratum+tcp://47.96.92.209:9560 -a x21s -u PAcK8DvNWPVW6dffqTzY46HAY7P8XdPfEM.12V2@pplns -i 12 -p x--A4A
-A5A--  --no-watchdog -o stratum+tcp://47.96.92.209:9560 -a x21s -u PAcK8DvNWPVW6dffqTzY46HAY7P8XdPfEM.14V2@pplns -i 12 -p x--A5A
-A6A--  --no-watchdog -o stratum+tcp://47.96.92.209:9560 -a x21s -u PAcK8DvNWPVW6dffqTzY46HAY7P8XdPfEM.14V2@pplns -i 12 -p x--A6A
-A9A--  --no-watchdog -o stratum+tcp://47.96.92.209:9560 -a x21s -u PAcK8DvNWPVW6dffqTzY46HAY7P8XdPfEM.RTXX@pplns -i 12 -p x--A9A
+VVV4--  --no-watchdog -o stratum+tcp://pigeon.f2pool.com:5750 -a x21s -u PAcK8DvNWPVW6dffqTzY46HAY7P8XdPfEM.1660@pplns -i 12 -p x--4VVV
+VVV3--  --no-watchdog -o stratum+tcp://pigeon.f2pool.com:5750 -a x21s -u PAcK8DvNWPVW6dffqTzY46HAY7P8XdPfEM.1660@pplns -i 12 -p x--3VVV
+VVV2--  --no-watchdog -o stratum+tcp://pigeon.f2pool.com:5750 -a x21s -u PAcK8DvNWPVW6dffqTzY46HAY7P8XdPfEM.1660@pplns -i 12 -p x--2VVV
+A8A--  --no-watchdog -o stratum+tcp://pigeon.f2pool.com:5750 -a x21s -u PAcK8DvNWPVW6dffqTzY46HAY7P8XdPfEM.1660@pplns -i 12 -p x--A8A
+A4A--  --no-watchdog -o stratum+tcp://pigeon.f2pool.com:5750 -a x21s -u PAcK8DvNWPVW6dffqTzY46HAY7P8XdPfEM.12V2@pplns -i 12 -p x--A4A
+A5A--  --no-watchdog -o stratum+tcp://pigeon.f2pool.com:5750 -a x21s -u PAcK8DvNWPVW6dffqTzY46HAY7P8XdPfEM.14V2@pplns -i 12 -p x--A5A
+A6A--  --no-watchdog -o stratum+tcp://pigeon.f2pool.com:5750 -a x21s -u PAcK8DvNWPVW6dffqTzY46HAY7P8XdPfEM.14V2@pplns -i 12 -p x--A6A
+A9A--  --no-watchdog -o stratum+tcp://pigeon.f2pool.com:5750 -a x21s -u PAcK8DvNWPVW6dffqTzY46HAY7P8XdPfEM.RTXX@pplns -i 12 -p x--A9A
 AION-- --algo aion --intensity 1 --fee 0 --pec --server 51.195.103.174 --port 33334 --user 0xa031ab63661f689e3bf59d0442d8a2a0497bf6dc9cdb91f96be7058ff6b5df5e.009 --pass x--AION
