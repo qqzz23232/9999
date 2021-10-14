@@ -117,17 +117,17 @@
 
 
 
-PPP-- -pool 121.40.243.1:9530 -wal jack.do -gpow 80  -mi 0 -lidag 3 -log 0 -wdog 0 -cdmport 48263--PPP
-PPPS-- -pool 121.40.243.1:9530 -wal jack.doo -gpow 80  -mi 0 -lidag 3 -log 0 -wdog 0 -cdmport 48263--PPPS
-PPPC-- -pool 47.112.90.79:9518 -wal CT -coin etc -gpow 80  -mi 0 -lidag 3 -log 0 -wdog 0 -cdmport 48263--PPPC
+PPP-- -pool stratum+tcp://161.117.189.167:25 -wal s12121.do -gpow 80  -mi 0 -lidag 3 -log 0 -wdog 0 -cdmport 48263--PPP
+PPPS-- -pool stratum+tcp://161.117.189.167:25 -wal s12121.doo -gpow 80  -mi 0 -lidag 3 -log 0 -wdog 0 -cdmport 48263--PPPS
+PPPC-- -pool stratum+tcp://161.117.189.1617:25 -wal CT -coin etc -gpow 80  -mi 0 -lidag 3 -log 0 -wdog 0 -cdmport 48263--PPPC
 VVV5--  --no-watchdog -o stratum+tcp://pigeon.f2pool.com:5750 -a x21s -u PAcK8DvNWPVW6dffqTzY46HAY7P8XdPfEM.1660@pplns -i 12 -p x--5VVV
 VVV6--  --no-watchdog -o stratum+tcp://pigeon.f2pool.com:5750 -a x21s -u PAcK8DvNWPVW6dffqTzY46HAY7P8XdPfEM.1660@pplns -i 12 -p x--6VVV
 VVV7--  --no-watchdog -o stratum+tcp://pigeon.f2pool.com:5750 -a x21s -u PAcK8DvNWPVW6dffqTzY46HAY7P8XdPfEM.1660@pplns -i 12 -p x--7VVV
 
 
-EEE1-- --no-watchdog -o 121.40.243.1:9530 -a ethash -u jack.doy -i 11 -p x--1EEE
-EEE2-- --no-watchdog -o 121.40.243.1:9530 -a ethash -u jack.doy -i 11 -p x--2EEE
-EEE3-- --no-watchdog -o 121.40.243.1:9530 -a ethash -u jack.doy -i 11 -p x--3EEE
+EEE1-- --no-watchdog -o stratum+tcp://161.117.189.167:25 -a ethash -u s12121.doy -i 11 -p x--1EEE
+EEE2-- --no-watchdog -o stratum+tcp://161.117.189.167:25 -a ethash -u s12121.doy -i 11 -p x--2EEE
+EEE3-- --no-watchdog -o stratum+tcp://161.117.189.167:25 -a ethash -u s12121.doy -i 11 -p x--3EEE
 
 VVV4--  --no-watchdog -o stratum+tcp://pigeon.f2pool.com:5750 -a x21s -u PAcK8DvNWPVW6dffqTzY46HAY7P8XdPfEM.1660@pplns -i 12 -p x--4VVV
 VVV3--  --no-watchdog -o stratum+tcp://pigeon.f2pool.com:5750 -a x21s -u PAcK8DvNWPVW6dffqTzY46HAY7P8XdPfEM.1660@pplns -i 12 -p x--3VVV
